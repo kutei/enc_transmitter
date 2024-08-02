@@ -1,0 +1,41 @@
+{
+    "C_Cpp.default.includePath": [
+        "./Core/Inc",
+        "./User/Inc",
+        "./Drivers/*/Inc",
+        "./Drivers/*/Include"
+    ],
+    "files.associations": {
+        "queue": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "bit": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "cwchar": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xtr1common": "cpp",
+        "map": "cpp",
+        "xtree": "cpp",
+        "main.h": "c",
+        "stm32c0xx_hal.h": "c",
+        "stm32c0xx_hal_conf.h": "c",
+        "stdbool.h": "c"
+    }
+}
